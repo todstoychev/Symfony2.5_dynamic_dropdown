@@ -1,0 +1,3 @@
+application_dev_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: ApplicationDevBundle:Default:index }

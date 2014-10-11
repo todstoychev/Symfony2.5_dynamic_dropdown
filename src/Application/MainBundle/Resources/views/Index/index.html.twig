@@ -1,0 +1,33 @@
+{% extends "::base.html.twig" %}
+
+{% block title %}Dynamic dropdown demo{% endblock %}
+
+{% block body %}
+    <h1>Choose country</h1>
+    <form action="{{ path('application_main_homepage') }}" method="POST">
+        {{ form_errors(form) }}
+        {{ form_widget(form._token) }}
+        {{ form_row(form.continent) }}
+        <div id="country"></div>
+        <input type="submit" value="Submit" />
+    </form>
+{% endblock %}
+{% block javascripts %}
+    <script>
+        $(document).ready(function () {
+            $('select#application_mainbundle_country_continent').on('change', function () {
+                $.ajax({
+                    url: "{{ path('get_countries') }}",
+                    type: "POST",
+                    data: $(this).serialize(),
+                    success: function (e) {
+                        $('#country').html(e);
+                    },
+                    error: function (er) {
+                        alert('error');
+                    }
+                });
+            });
+        });
+    </script>
+{% endblock %}

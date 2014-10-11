@@ -1,0 +1,32 @@
+{% extends "::base.html.twig" %}
+
+{% block stylesheets %}
+    <link href="{{ asset('css/style.css') }}" rel="stylesheet" media="all" />
+{% endblock %}
+
+{% block title %}
+    Your Result
+{% endblock %}
+
+{% block body %}
+    <h1>Your selection</h1>
+    <table>
+        <tr>
+            <th>Value</th>
+            <th>ID</th>
+            <th>Result</th>
+        </tr>
+        <tr>
+        <th>Continent</th>
+        <td>{{ continent.id }}</td>
+        <td>{{ continent.continent }}</td>
+        </tr>
+        <tr>
+            <th>
+                Country
+            </th>
+            <td>{{ country.id }}</td>
+            <td>{{ country.country }}</td>
+        </tr>
+    </table>
+{% endblock %}

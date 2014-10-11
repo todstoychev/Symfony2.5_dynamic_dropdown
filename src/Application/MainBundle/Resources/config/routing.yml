@@ -1,0 +1,7 @@
+application_main_homepage:
+    path:     /
+    defaults: { _controller: ApplicationMainBundle:Index:index }
+    
+get_countries:
+    path: /get-countries
+    defaults: { _controller: ApplicationMainBundle:Index:getCountries }

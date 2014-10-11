@@ -1,0 +1,1002 @@
+[
+    {
+        "country": "Andorra",
+        "continent_id": 1
+    },
+    {
+        "country": "United Arab Emirates",
+        "continent_id": 2
+    },
+    {
+        "country": "Afghanistan",
+        "continent_id": 2
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "continent_id": 3
+    },
+    {
+        "country": "Anguilla",
+        "continent_id": 3
+    },
+    {
+        "country": "Albania",
+        "continent_id": 1
+    },
+    {
+        "country": "Armenia",
+        "continent_id": 2
+    },
+    {
+        "country": "Angola",
+        "continent_id": 4
+    },
+    {
+        "country": 5,
+        "continent_id": 5
+    },
+    {
+        "country": "Argentina",
+        "continent_id": 6
+    },
+    {
+        "country": "American Samoa",
+        "continent_id": 7
+    },
+    {
+        "country": "Austria",
+        "continent_id": 1
+    },
+    {
+        "country": "Australia",
+        "continent_id": 7
+    },
+    {
+        "country": "Aruba",
+        "continent_id": 3
+    },
+    {
+        "country": "Åland",
+        "continent_id": 1
+    },
+    {
+        "country": "Azerbaijan",
+        "continent_id": 2
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "continent_id": 1
+    },
+    {
+        "country": "Barbados",
+        "continent_id": 3
+    },
+    {
+        "country": "Bangladesh",
+        "continent_id": 2
+    },
+    {
+        "country": "Belgium",
+        "continent_id": 1
+    },
+    {
+        "country": "Burkina Faso",
+        "continent_id": 4
+    },
+    {
+        "country": "Bulgaria",
+        "continent_id": 1
+    },
+    {
+        "country": "Bahrain",
+        "continent_id": 2
+    },
+    {
+        "country": "Burundi",
+        "continent_id": 4
+    },
+    {
+        "country": "Benin",
+        "continent_id": 4
+    },
+    {
+        "country": "Saint Barthélemy",
+        "continent_id": 3
+    },
+    {
+        "country": "Bermuda",
+        "continent_id": 3
+    },
+    {
+        "country": "Brunei",
+        "continent_id": 2
+    },
+    {
+        "country": "Bolivia",
+        "continent_id": 6
+    },
+    {
+        "country": "Bonaire",
+        "continent_id": 3
+    },
+    {
+        "country": "Brazil",
+        "continent_id": 6
+    },
+    {
+        "country": "Bahamas",
+        "continent_id": 3
+    },
+    {
+        "country": "Bhutan",
+        "continent_id": 2
+    },
+    {
+        "country": "Bouvet Island",
+        "continent_id": 5
+    },
+    {
+        "country": "Botswana",
+        "continent_id": 4
+    },
+    {
+        "country": "Belarus",
+        "continent_id": 1
+    },
+    {
+        "country": "Belize",
+        "continent_id": 3
+    },
+    {
+        "country": "Canada",
+        "continent_id": 3
+    },
+    {
+        "country": "Cocos [Keeling] Islands",
+        "continent_id": 2
+    },
+    {
+        "country": "Democratic Republic of the Congo",
+        "continent_id": 4
+    },
+    {
+        "country": "Central African Republic",
+        "continent_id": 4
+    },
+    {
+        "country": "Republic of the Congo",
+        "continent_id": 4
+    },
+    {
+        "country": "Switzerland",
+        "continent_id": 1
+    },
+    {
+        "country": "Ivory Coast",
+        "continent_id": 4
+    },
+    {
+        "country": "Cook Islands",
+        "continent_id": 7
+    },
+    {
+        "country": "Chile",
+        "continent_id": 6
+    },
+    {
+        "country": "Cameroon",
+        "continent_id": 4
+    },
+    {
+        "country": "China",
+        "continent_id": 2
+    },
+    {
+        "country": "Colombia",
+        "continent_id": 6
+    },
+    {
+        "country": "Costa Rica",
+        "continent_id": 3
+    },
+    {
+        "country": "Cuba",
+        "continent_id": 3
+    },
+    {
+        "country": "Cape Verde",
+        "continent_id": 4
+    },
+    {
+        "country": "Curacao",
+        "continent_id": 3
+    },
+    {
+        "country": "Christmas Island",
+        "continent_id": 2
+    },
+    {
+        "country": "Cyprus",
+        "continent_id": 1
+    },
+    {
+        "country": "Czech Republic",
+        "continent_id": 1
+    },
+    {
+        "country": "Germany",
+        "continent_id": 1
+    },
+    {
+        "country": "Djibouti",
+        "continent_id": 4
+    },
+    {
+        "country": "Denmark",
+        "continent_id": 1
+    },
+    {
+        "country": "Dominica",
+        "continent_id": 3
+    },
+    {
+        "country": "Dominican Republic",
+        "continent_id": 3
+    },
+    {
+        "country": "Algeria",
+        "continent_id": 4
+    },
+    {
+        "country": "Ecuador",
+        "continent_id": 6
+    },
+    {
+        "country": "Estonia",
+        "continent_id": 1
+    },
+    {
+        "country": "Egypt",
+        "continent_id": 4
+    },
+    {
+        "country": "Western Sahara",
+        "continent_id": 4
+    },
+    {
+        "country": "Eritrea",
+        "continent_id": 4
+    },
+    {
+        "country": "Spain",
+        "continent_id": 1
+    },
+    {
+        "country": "Ethiopia",
+        "continent_id": 4
+    },
+    {
+        "country": "Finland",
+        "continent_id": 1
+    },
+    {
+        "country": "Fiji",
+        "continent_id": 7
+    },
+    {
+        "country": "Falkland Islands",
+        "continent_id": 6
+    },
+    {
+        "country": "Micronesia",
+        "continent_id": 7
+    },
+    {
+        "country": "Faroe Islands",
+        "continent_id": 1
+    },
+    {
+        "country": "France",
+        "continent_id": 1
+    },
+    {
+        "country": "Gabon",
+        "continent_id": 4
+    },
+    {
+        "country": "United Kingdom",
+        "continent_id": 1
+    },
+    {
+        "country": "Grenada",
+        "continent_id": 3
+    },
+    {
+        "country": "Georgia",
+        "continent_id": 2
+    },
+    {
+        "country": "French Guiana",
+        "continent_id": 6
+    },
+    {
+        "country": "Guernsey",
+        "continent_id": 1
+    },
+    {
+        "country": "Ghana",
+        "continent_id": 4
+    },
+    {
+        "country": "Gibraltar",
+        "continent_id": 1
+    },
+    {
+        "country": "Greenland",
+        "continent_id": 3
+    },
+    {
+        "country": "Gambia",
+        "continent_id": 4
+    },
+    {
+        "country": "Guinea",
+        "continent_id": 4
+    },
+    {
+        "country": "Guadeloupe",
+        "continent_id": 3
+    },
+    {
+        "country": "Equatorial Guinea",
+        "continent_id": 4
+    },
+    {
+        "country": "Greece",
+        "continent_id": 1
+    },
+    {
+        "country": "South Georgia and the South Sandwich Islands",
+        "continent_id": 5
+    },
+    {
+        "country": "Guatemala",
+        "continent_id": 3
+    },
+    {
+        "country": "Guam",
+        "continent_id": 7
+    },
+    {
+        "country": "Guinea-Bissau",
+        "continent_id": 4
+    },
+    {
+        "country": "Guyana",
+        "continent_id": 6
+    },
+    {
+        "country": "Hong Kong",
+        "continent_id": 2
+    },
+    {
+        "country": "Heard Island and McDonald Islands",
+        "continent_id": 5
+    },
+    {
+        "country": "Honduras",
+        "continent_id": 3
+    },
+    {
+        "country": "Croatia",
+        "continent_id": 1
+    },
+    {
+        "country": "Haiti",
+        "continent_id": 3
+    },
+    {
+        "country": "Hungary",
+        "continent_id": 1
+    },
+    {
+        "country": "Indonesia",
+        "continent_id": 2
+    },
+    {
+        "country": "Ireland",
+        "continent_id": 1
+    },
+    {
+        "country": "Israel",
+        "continent_id": 2
+    },
+    {
+        "country": "Isle of Man",
+        "continent_id": 1
+    },
+    {
+        "country": "India",
+        "continent_id": 2
+    },
+    {
+        "country": "British Indian Ocean Territory",
+        "continent_id": 2
+    },
+    {
+        "country": "Iraq",
+        "continent_id": 2
+    },
+    {
+        "country": "Iran",
+        "continent_id": 2
+    },
+    {
+        "country": "Iceland",
+        "continent_id": 1
+    },
+    {
+        "country": "Italy",
+        "continent_id": 1
+    },
+    {
+        "country": "Jersey",
+        "continent_id": 1
+    },
+    {
+        "country": "Jamaica",
+        "continent_id": 3
+    },
+    {
+        "country": "Jordan",
+        "continent_id": 2
+    },
+    {
+        "country": "Japan",
+        "continent_id": 2
+    },
+    {
+        "country": "Kenya",
+        "continent_id": 4
+    },
+    {
+        "country": "Kyrgyzstan",
+        "continent_id": 2
+    },
+    {
+        "country": "Cambodia",
+        "continent_id": 2
+    },
+    {
+        "country": "Kiribati",
+        "continent_id": 7
+    },
+    {
+        "country": "Comoros",
+        "continent_id": 4
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "continent_id": 3
+    },
+    {
+        "country": "North Korea",
+        "continent_id": 2
+    },
+    {
+        "country": "South Korea",
+        "continent_id": 2
+    },
+    {
+        "country": "Kuwait",
+        "continent_id": 2
+    },
+    {
+        "country": "Cayman Islands",
+        "continent_id": 3
+    },
+    {
+        "country": "Kazakhstan",
+        "continent_id": 2
+    },
+    {
+        "country": "Laos",
+        "continent_id": 2
+    },
+    {
+        "country": "Lebanon",
+        "continent_id": 2
+    },
+    {
+        "country": "Saint Lucia",
+        "continent_id": 3
+    },
+    {
+        "country": "Liechtenstein",
+        "continent_id": 1
+    },
+    {
+        "country": "Sri Lanka",
+        "continent_id": 2
+    },
+    {
+        "country": "Liberia",
+        "continent_id": 4
+    },
+    {
+        "country": "Lesotho",
+        "continent_id": 4
+    },
+    {
+        "country": "Lithuania",
+        "continent_id": 1
+    },
+    {
+        "country": "Luxembourg",
+        "continent_id": 1
+    },
+    {
+        "country": "Latvia",
+        "continent_id": 1
+    },
+    {
+        "country": "Libya",
+        "continent_id": 4
+    },
+    {
+        "country": "Morocco",
+        "continent_id": 4
+    },
+    {
+        "country": "Monaco",
+        "continent_id": 1
+    },
+    {
+        "country": "Moldova",
+        "continent_id": 1
+    },
+    {
+        "country": "Montenegro",
+        "continent_id": 1
+    },
+    {
+        "country": "Saint Martin",
+        "continent_id": 3
+    },
+    {
+        "country": "Madagascar",
+        "continent_id": 4
+    },
+    {
+        "country": "Marshall Islands",
+        "continent_id": 7
+    },
+    {
+        "country": "Macedonia",
+        "continent_id": 1
+    },
+    {
+        "country": "Mali",
+        "continent_id": 4
+    },
+    {
+        "country": "Myanmar [Burma]",
+        "continent_id": 2
+    },
+    {
+        "country": "Mongolia",
+        "continent_id": 2
+    },
+    {
+        "country": "Macao",
+        "continent_id": 2
+    },
+    {
+        "country": "Northern Mariana Islands",
+        "continent_id": 7
+    },
+    {
+        "country": "Martinique",
+        "continent_id": 3
+    },
+    {
+        "country": "Mauritania",
+        "continent_id": 4
+    },
+    {
+        "country": "Montserrat",
+        "continent_id": 3
+    },
+    {
+        "country": "Malta",
+        "continent_id": 1
+    },
+    {
+        "country": "Mauritius",
+        "continent_id": 4
+    },
+    {
+        "country": "Maldives",
+        "continent_id": 2
+    },
+    {
+        "country": "Malawi",
+        "continent_id": 4
+    },
+    {
+        "country": "Mexico",
+        "continent_id": 3
+    },
+    {
+        "country": "Malaysia",
+        "continent_id": 2
+    },
+    {
+        "country": "Mozambique",
+        "continent_id": 4
+    },
+    {
+        "country": "Namibia",
+        "continent_id": 4
+    },
+    {
+        "country": "New Caledonia",
+        "continent_id": 7
+    },
+    {
+        "country": "Niger",
+        "continent_id": 4
+    },
+    {
+        "country": "Norfolk Island",
+        "continent_id": 7
+    },
+    {
+        "country": "Nigeria",
+        "continent_id": 4
+    },
+    {
+        "country": "Nicaragua",
+        "continent_id": 3
+    },
+    {
+        "country": "Netherlands",
+        "continent_id": 1
+    },
+    {
+        "country": "Norway",
+        "continent_id": 1
+    },
+    {
+        "country": "Nepal",
+        "continent_id": 2
+    },
+    {
+        "country": "Nauru",
+        "continent_id": 7
+    },
+    {
+        "country": "Niue",
+        "continent_id": 7
+    },
+    {
+        "country": "New Zealand",
+        "continent_id": 7
+    },
+    {
+        "country": "Oman",
+        "continent_id": 2
+    },
+    {
+        "country": "Panama",
+        "continent_id": 3
+    },
+    {
+        "country": "Peru",
+        "continent_id": 6
+    },
+    {
+        "country": "French Polynesia",
+        "continent_id": 7
+    },
+    {
+        "country": "Papua New Guinea",
+        "continent_id": 7
+    },
+    {
+        "country": "Philippines",
+        "continent_id": 2
+    },
+    {
+        "country": "Pakistan",
+        "continent_id": 2
+    },
+    {
+        "country": "Poland",
+        "continent_id": 1
+    },
+    {
+        "country": "Saint Pierre and Miquelon",
+        "continent_id": 3
+    },
+    {
+        "country": "Pitcairn Islands",
+        "continent_id": 7
+    },
+    {
+        "country": "Puerto Rico",
+        "continent_id": 3
+    },
+    {
+        "country": "Palestine",
+        "continent_id": 2
+    },
+    {
+        "country": "Portugal",
+        "continent_id": 1
+    },
+    {
+        "country": "Palau",
+        "continent_id": 7
+    },
+    {
+        "country": "Paraguay",
+        "continent_id": 6
+    },
+    {
+        "country": "Qatar",
+        "continent_id": 2
+    },
+    {
+        "country": "Réunion",
+        "continent_id": 4
+    },
+    {
+        "country": "Romania",
+        "continent_id": 1
+    },
+    {
+        "country": "Serbia",
+        "continent_id": 1
+    },
+    {
+        "country": "Russia",
+        "continent_id": 1
+    },
+    {
+        "country": "Rwanda",
+        "continent_id": 4
+    },
+    {
+        "country": "Saudi Arabia",
+        "continent_id": 2
+    },
+    {
+        "country": "Solomon Islands",
+        "continent_id": 7
+    },
+    {
+        "country": "Seychelles",
+        "continent_id": 4
+    },
+    {
+        "country": "Sudan",
+        "continent_id": 4
+    },
+    {
+        "country": "Sweden",
+        "continent_id": 1
+    },
+    {
+        "country": "Singapore",
+        "continent_id": 2
+    },
+    {
+        "country": "Saint Helena",
+        "continent_id": 4
+    },
+    {
+        "country": "Slovenia",
+        "continent_id": 1
+    },
+    {
+        "country": "Svalbard and Jan Mayen",
+        "continent_id": 1
+    },
+    {
+        "country": "Slovakia",
+        "continent_id": 1
+    },
+    {
+        "country": "Sierra Leone",
+        "continent_id": 4
+    },
+    {
+        "country": "San Marino",
+        "continent_id": 1
+    },
+    {
+        "country": "Senegal",
+        "continent_id": 4
+    },
+    {
+        "country": "Somalia",
+        "continent_id": 4
+    },
+    {
+        "country": "Suriname",
+        "continent_id": 6
+    },
+    {
+        "country": "South Sudan",
+        "continent_id": 4
+    },
+    {
+        "country": "São Tomé and Príncipe",
+        "continent_id": 4
+    },
+    {
+        "country": "El Salvador",
+        "continent_id": 3
+    },
+    {
+        "country": "Sint Maarten",
+        "continent_id": 3
+    },
+    {
+        "country": "Syria",
+        "continent_id": 2
+    },
+    {
+        "country": "Swaziland",
+        "continent_id": 4
+    },
+    {
+        "country": "Turks and Caicos Islands",
+        "continent_id": 3
+    },
+    {
+        "country": "Chad",
+        "continent_id": 4
+    },
+    {
+        "country": "French Southern Territories",
+        "continent_id": 5
+    },
+    {
+        "country": "Togo",
+        "continent_id": 4
+    },
+    {
+        "country": "Thailand",
+        "continent_id": 2
+    },
+    {
+        "country": "Tajikistan",
+        "continent_id": 2
+    },
+    {
+        "country": "Tokelau",
+        "continent_id": 7
+    },
+    {
+        "country": "East Timor",
+        "continent_id": 7
+    },
+    {
+        "country": "Turkmenistan",
+        "continent_id": 2
+    },
+    {
+        "country": "Tunisia",
+        "continent_id": 4
+    },
+    {
+        "country": "Tonga",
+        "continent_id": 7
+    },
+    {
+        "country": "Turkey",
+        "continent_id": 2
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "continent_id": 3
+    },
+    {
+        "country": "Tuvalu",
+        "continent_id": 7
+    },
+    {
+        "country": "Taiwan",
+        "continent_id": 2
+    },
+    {
+        "country": "Tanzania",
+        "continent_id": 4
+    },
+    {
+        "country": "Ukraine",
+        "continent_id": 1
+    },
+    {
+        "country": "Uganda",
+        "continent_id": 4
+    },
+    {
+        "country": "U.S. Minor Outlying Islands",
+        "continent_id": 7
+    },
+    {
+        "country": "United States",
+        "continent_id": 3
+    },
+    {
+        "country": "Uruguay",
+        "continent_id": 6
+    },
+    {
+        "country": "Uzbekistan",
+        "continent_id": 2
+    },
+    {
+        "country": "Vatican City",
+        "continent_id": 1
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "continent_id": 3
+    },
+    {
+        "country": "Venezuela",
+        "continent_id": 6
+    },
+    {
+        "country": "British Virgin Islands",
+        "continent_id": 3
+    },
+    {
+        "country": "U.S. Virgin Islands",
+        "continent_id": 3
+    },
+    {
+        "country": "Vietnam",
+        "continent_id": 2
+    },
+    {
+        "country": "Vanuatu",
+        "continent_id": 7
+    },
+    {
+        "country": "Wallis and Futuna",
+        "continent_id": 7
+    },
+    {
+        "country": "Samoa",
+        "continent_id": 7
+    },
+    {
+        "country": "Kosovo",
+        "continent_id": 1
+    },
+    {
+        "country": "Yemen",
+        "continent_id": 2
+    },
+    {
+        "country": "Mayotte",
+        "continent_id": 4
+    },
+    {
+        "country": "South Africa",
+        "continent_id": 4
+    },
+    {
+        "country": "Zambia",
+        "continent_id": 4
+    },
+    {
+        "country": "Zimbabwe",
+        "continent_id": 4
+    }
+]
