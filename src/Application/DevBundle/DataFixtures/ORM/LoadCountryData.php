@@ -3,11 +3,11 @@
 namespace Application\DevBundle\DataFixtures\ORM;
 
 use Doctrine\Common\DataFixtures\AbstractFixture;
-use Doctrine\Common\DataFixtures\FixtureInterface;
+use Doctrine\Common\DataFixtures\OrderedFixtureInterface;
 use Doctrine\Common\Persistence\ObjectManager;
 use Application\MainBundle\Entity\Country;
 
-class LoadCountryData extends AbstractFixture implements FixtureInterface
+class LoadCountryData extends AbstractFixture implements OrderedFixtureInterface
 {
     /**
      * {@inheritDoc}
@@ -22,7 +22,7 @@ class LoadCountryData extends AbstractFixture implements FixtureInterface
         foreach ($countries as $country) {
             $entity = new Country();
             $entity->setCountry($country->country);
-            $entity->setContinent($this->getReference('continent_' . $country->continent_id));
+            $entity->setContinent($this->getReference('continent-' . $country->continent_id));
             $manager->persist($entity);
         }
         
