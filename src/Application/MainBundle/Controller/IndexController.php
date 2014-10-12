@@ -16,33 +16,37 @@ class IndexController extends Controller {
      * @return Response
      */
     public function indexAction(Request $request) {
-        
+
         // Handle the form
         $form = $this->createForm(new ContinentType());
         $form->handleRequest($request);
-        
+
         // Handle the submission
-        if($form->isValid()) {
-            
+        if ($form->isValid()) {
+
             // Get the parameters array from the request
             $result = $request->request->all()[$form->getName()];
-           
+
             // Find the continent
             $continent = $this->getDoctrine()
                     ->getRepository('ApplicationMainBundle:Continent')
                     ->find($result['continent']);
-            
-            // Find the country
-            $country = $this->getDoctrine()
-                    ->getRepository('ApplicationMainBundle:Country')
-                    ->find($result['country']);
-            
+
+            if (isset($result['country'])) {
+                // Find the country
+                $country = $this->getDoctrine()
+                        ->getRepository('ApplicationMainBundle:Country')
+                        ->find($result['country']);
+            } else {
+                $country = null;
+            }
+
             return $this->render('ApplicationMainBundle:Index:result.html.twig', ['continent' => $continent, 'country' => $country]);
         }
 
         return $this->render('ApplicationMainBundle:Index:index.html.twig', ['form' => $form->createView()]);
     }
-    
+
     /**
      * Renders Country dropdown based on the continent id
      * 
@@ -52,11 +56,11 @@ class IndexController extends Controller {
     public function getCountriesAction(Request $request) {
         // Get the continent id from the request
         $continent_id = $request->request->all()[$request->request->keys()[0]]['continent'];
-        
+
         // Render the form
         $form = $this->createForm(new CountryType($continent_id));
         $form->handleRequest($request);
-        
+
         return $this->render('ApplicationMainBundle:Index:countries.html.twig', ['form' => $form->createView()]);
     }
 

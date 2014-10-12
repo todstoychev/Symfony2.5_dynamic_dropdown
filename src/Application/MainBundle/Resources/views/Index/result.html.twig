@@ -17,10 +17,11 @@
             <th>Result</th>
         </tr>
         <tr>
-        <th>Continent</th>
-        <td>{{ continent.id }}</td>
-        <td>{{ continent.continent }}</td>
+            <th>Continent</th>
+            <td>{{ continent.id }}</td>
+            <td>{{ continent.continent }}</td>
         </tr>
+        {% if country %}
         <tr>
             <th>
                 Country
@@ -28,5 +29,6 @@
             <td>{{ country.id }}</td>
             <td>{{ country.country }}</td>
         </tr>
+        {% endif %}
     </table>
 {% endblock %}
