@@ -18,6 +18,7 @@ class ContinentType extends AbstractType {
                     'label' => 'Continent: ',
                     'class' => 'Application\MainBundle\Entity\Continent',
                     'property' => 'continent',
+                    'empty_value' => 'Select...'
                 ])
                 ->add('country')
         ;

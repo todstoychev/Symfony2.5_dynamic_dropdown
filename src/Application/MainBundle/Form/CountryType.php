@@ -26,6 +26,8 @@ class CountryType extends ContinentType {
                     'label' => 'Country: ',
                     'class' => 'Application\MainBundle\Entity\Country',
                     'property' => 'country',
+                    'empty_value' => 'Select...',
+                    'required' => false,
                     'query_builder' => function (\Doctrine\ORM\EntityRepository $er) {
                         return $er->createQueryBuilder('country')
                                 ->where('country.continent =' . $this->continent_id);
